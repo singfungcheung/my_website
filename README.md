@@ -1,1 +1,3 @@
-I don't know when this will be done but this is my website. Stay tuned!
+8/29/2020:
+
+Completed a draft for CS50 assignment.
